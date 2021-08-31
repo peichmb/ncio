@@ -1,0 +1,34 @@
+Writing test file...
+deleting write buffer...
+Reading test file...
+Resizing buffer to match number of rows in netCDF file.
+File: test_write.nc
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 1
+2 2 2 2 2
+2 2 2 2 2
+
+2 2 2 2 2
+3 3 3 3 3
+3 3 3 3 3
+3 3 3 3 3
+4 4 4 4 4
+
+End of file reached.
+File: test_write.nc
+4 4 4 4 4
+4 4 4 4 4
+32767 32767 32767 32767 32767
+32767 32767 32767 32767 32767
+32767 32767 32767 32767 32767
+
+End of file reached.
+File: test_write.nc
+32767 32767 32767 32767 32767
+32767 32767 32767 32767 32767
+32767 32767 32767 32767 32767
+32767 32767 32767 32767 32767
+32767 32767 32767 32767 32767
+
+deleting read buffer...
